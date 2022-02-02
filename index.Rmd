@@ -1,0 +1,20 @@
+---
+title: "Arsh Lakhanpal"
+image: "not_arsh.png"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: YouTube
+    url: "https://youtube.com/"
+  - label: Vimeo
+    url: "https://vimeo.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::onofre
+---
+ 
+Arsh is a actuarial science major at the University of Toronto, who enjoys music and big water bottles.
